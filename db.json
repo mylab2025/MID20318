@@ -2,17 +2,17 @@
   "inventory": [
     {
       "MaterialTitle": {
-        "Name": "GKGKGKGKG",
+        "Name": "GKGKGKGKG(Edited)",
         "PN": "GKGKGKGKGG",
         "MF": "GKGKGKGKGKG"
       },
       "MID": "MID20318",
       "MD": "dfefefefef",
       "MT": "Electronic Material",
-      "MQNT": 6,
-      "MCost": 6.0,
+      "MQNT": 0,
       "MQATG": "#CLASS_3",
       "ML": "",
+      "MCost": 6,
       "MDS": "",
       "MAF1": "",
       "MAF2": "",
